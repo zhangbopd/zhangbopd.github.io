@@ -1,12 +1,11 @@
-title: Leaf Blog
+title: Zhang Bo's Blog
 iconURL: assets/default-icon.png
 
 # for a clean URL
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  github: zhangbopd
 
 plugins:
  - jekyll-feed

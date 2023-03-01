@@ -3,8 +3,12 @@ title: About
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Hey! This is [My Blog](https://zhangbopd.github.io/).
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+You can find the source code of this blog at <a href="https://github.com/zhangbopd/zhangbopd.github.io">Github</a>
 
-(Change this by editing `about.md` file)
+This Blog uses [Jekyll Theme Leaf](https://github.com/supun-io/jekyll-theme-leaf), a very simple yet beautiful theme created by `Supun Kavinda`, designed for those who love dark sites.
+
+[Jekyll](http://jekyllrb.com/) : Transform your plain text into static websites and blogs.
+
+More [Jekyll Themes](http://jekyllthemes.org/)
