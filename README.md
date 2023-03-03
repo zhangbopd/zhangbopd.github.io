@@ -9,3 +9,5 @@ This Blog uses [Jekyll Theme Leaf](https://github.com/supun-io/jekyll-theme-leaf
 [Jekyll](http://jekyllrb.com/) : Transform your plain text into static websites and blogs.
 
 More [Jekyll Themes](http://jekyllthemes.org/)
+
+`bundle exec jekyll serve`
