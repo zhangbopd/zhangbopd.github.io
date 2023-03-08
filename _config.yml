@@ -1,6 +1,12 @@
 title: Zhang Bo's Blog
 iconURL: assets/profile_photo.png
 
+# 指定markdown编辑器
+markdown: kramdown  
+# 要通过toc指令生成目录的标题级别
+kramdown:
+  toc_levels: "1,2"    
+
 # for a clean URL
 permalink: :slug
 

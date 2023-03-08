@@ -10,6 +10,14 @@ This post can be found in `_posts` directory. Go ahead and edit it and re-build 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
+<center> 
+<img src="images/xxx.gif" width="150">
+</center> 
+
+<strong>Table of Contents</strong>
+- this unordered seed list will be replaced by toc as unordered list
+{:toc} 
+
 ## Some great heading (h2)
 
 > Stay Hungry Stay Foolish
